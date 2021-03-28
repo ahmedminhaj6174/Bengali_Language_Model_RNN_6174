@@ -1,0 +1,1 @@
+The model wasdeveloped to predict words to complete an incompletesentence. Trained the RNN with PyTorch using 700,000articles and finally tested it by giving three words as inputand predicting the next four words as output. Skills & Tools:Python, Numpy, Matplotlib, Pandas, PyTorch, Gensim,Jupyter notebook.
